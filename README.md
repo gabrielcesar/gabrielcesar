@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gabrielcesar
-- 👀 I’m interested in Django and Angular.
-- 🌱 I’m currently learning Mongo.
+- 👀 I’m interested in Django, DRF and Angular.
 - 💞️ I’m looking to collaborate on Social Projects.
 - 📫 How to reach me @gabrielcesar1
 
